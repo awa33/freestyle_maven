@@ -1,0 +1,10 @@
+Assignment: Deploy a Highly Available Static Website
+Scenario
+
+Your company wants to host a simple website that must:
+
+-> Be accessible from the internet
+-> Run on multiple EC2 instances
+-> Automatically recover from instance failures
+-> Scale when traffic increases
+-> Store application logs in S3
